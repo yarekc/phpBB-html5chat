@@ -1,0 +1,3 @@
+toxyy_html5chat:
+    pattern: /html5chat
+    defaults: { _controller: toxyy.html5chat.main:handle}
